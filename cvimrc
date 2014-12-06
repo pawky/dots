@@ -1,0 +1,4 @@
+" Settings
+set nosmoothscroll
+set noautofocus
+let barposition = "bottom"
