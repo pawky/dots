@@ -4,3 +4,12 @@ set noautofocus
 let barposition = "bottom"
 unmap <C-i>
 map <C-i> <Tab>
+unmap d
+map d closeTab
+map <C-d> scrollPageDown
+map <C-f> scrollFullPageDown
+map <C-b> scrollFullPageUp
+unmap u
+map <C-u> scrollPageUp
+unmap X
+map u lastClosedTab
