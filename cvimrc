@@ -13,3 +13,4 @@ unmap u
 map <C-u> scrollPageUp
 unmap X
 map u lastClosedTab
+unmap <C-h>
