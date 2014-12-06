@@ -2,3 +2,5 @@
 set nosmoothscroll
 set noautofocus
 let barposition = "bottom"
+unmap <C-i>
+map <C-i> <Tab>
