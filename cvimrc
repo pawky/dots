@@ -2,6 +2,7 @@
 set nosmoothscroll
 set noautofocus
 set autohidecursor
+set smartcase
 let barposition = "bottom"
 unmap <C-i>
 map <C-i> <Tab>
